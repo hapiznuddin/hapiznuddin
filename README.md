@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hapiz Nuddin Setiadi</h1>
 <h3 align="center">A passionate full-stack developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1hrkloR9nAWglO6Tio_Xaw9ujJS2b9mEU/view?usp=sharing">
+<!-- <img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1hrkloR9nAWglO6Tio_Xaw9ujJS2b9mEU/view?usp=sharing"> -->
+<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> 
+<dotlottie-player src="https://lottie.host/f510527e-2712-4ed9-91ca-5875ca6c767d/fsE7iO10tC.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hapiznuddin&label=Profile%20views&color=0e75b6&style=flat" alt="hapiznuddin" /> </p>
 
